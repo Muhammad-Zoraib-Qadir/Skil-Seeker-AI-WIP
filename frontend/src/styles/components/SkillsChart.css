@@ -1,0 +1,12 @@
+.skills-chart {
+    padding: 1.5rem;
+    background-color: #f9f9f9;
+    border-radius: 0.5rem;
+  }
+  
+  .skills-chart h3 {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
